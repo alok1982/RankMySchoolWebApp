@@ -1,0 +1,2 @@
+# RankMySchoolWebApp
+RankMySchool Angular project
